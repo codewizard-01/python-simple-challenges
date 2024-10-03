@@ -27,18 +27,20 @@ To get started with the challenges in this repository, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/python-simple-challenges.git# python-simple-challenges
+   git clone https://github.com/codewizard-01/python-simple-challenges.git
    ```
 
 2. **Navigate to the directory:**
-
-   cd python-simple-challenges
+   ```bash
+   cd python-simple-challenges/Challenges/
+   ```
 
 3. **Run the challenges:**
 
    Each challenge is located in its respective file. Open the files in your favorite code editor and execute them using Python:
-
+   ```bash
    python filename.py
+   ```
 
 ---
 
