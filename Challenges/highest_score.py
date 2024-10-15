@@ -10,5 +10,5 @@ for score in scores:
 
 print(highest_score)
 
-# Second Approach 
+# Second Approach
 print(max(scores))
