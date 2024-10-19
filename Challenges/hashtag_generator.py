@@ -10,7 +10,7 @@ def generate_hashtag(s):
 
     # Here, we check if the hashtag is longer than 140 characters and if it's empty
     if len(my_hashtag) >= 140 or my_hashtag == "":
-        return "False"
+        return False
     else:
         return f"#{my_hashtag}"
 
